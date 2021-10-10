@@ -1,2 +1,2 @@
 # tutorial_test
-I have no idea what is going on.
+Tutorial repository for integrating Github and RStudio.
